@@ -1,4 +1,4 @@
-<img width="945" height="505" alt="image" src="https://github.com/user-attachments/assets/9048c3af-9215-4d4b-9de5-4aded5607da6" /># Murafiq-Sustainable-Pilgrim-Solutions-SSP-Challenge
+# Murafiq-Sustainable-Pilgrim-Solutions-SSP-Challenge
 AI-powered sustainable pilgrimage ecosystem developed for the Sustainable Solutions for Pilgrims (SSP) Challenge by the Saudi Ministry of Hajj and Umrah, integrating IoT, smart mobility, and real-time crowd intelligence.
 
 # Murafiq — Intelligent Sustainable Companion for Pilgrims
